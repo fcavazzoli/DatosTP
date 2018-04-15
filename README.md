@@ -25,5 +25,6 @@
     - Cantidad de oferta laboral por tipo de trabajo
     - Cantidad de oferta laboral por tipo de trabajo y por area
     - Cantidad de oferta laboral por tipo de trabajo y por zona
+    - Cantidad de oferta laboral por nivel laboral
     - Cantidad de oferta laboral por nivel laboral y por area
     - Cantidad de oferta laboral por nivel laboral y por zona 
