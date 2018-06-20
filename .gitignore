@@ -3,3 +3,5 @@ Sources/
 .DS_Store
 .ipynb_checkpoints/
 __pychache__/
+*.csv
+
