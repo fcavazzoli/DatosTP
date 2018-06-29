@@ -1,8 +1,8 @@
-Sources/
+*.pkl
 .idea/
 .DS_Store
 .ipynb_checkpoints/
 __pychache__/
 *.csv
 
-! Sources/idaviso-cluster.csv
+! idaviso-cluster.csv
