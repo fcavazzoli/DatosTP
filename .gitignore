@@ -5,4 +5,4 @@ Sources/
 __pychache__/
 *.csv
 
-! idaviso-cluster.csv
+! Sources/idaviso-cluster.csv
